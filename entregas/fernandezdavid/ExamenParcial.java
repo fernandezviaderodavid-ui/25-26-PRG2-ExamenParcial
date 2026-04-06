@@ -1,3 +1,4 @@
+
 class Mesa {
     private int numero;
     private int capacidad;
